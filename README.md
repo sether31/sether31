@@ -8,7 +8,7 @@
 <h3 align="left">👨‍💻 My Accounts</h3>
 <p align="left">
   <a href="https://cssbattle.dev/player/sether31">My CSS Battle Account</a> <br>
-<a href="https://cssbattle.dev/player/sether31">My Front End Mentor Account</a>
+<a href="https://www.frontendmentor.io/profile/sether31">My Front End Mentor Account</a>
 </p>
 
 <h3 align="left">💻 Tech Skills</h3>
