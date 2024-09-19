@@ -3,7 +3,7 @@
 <h1 align="left">Hi 👋, I'm Seth Michael Hernandez</h1>
 <h3 align="left">Aspiring Front-end developer</h3>
 
-<img align="right" alt="coding-gif" width="600" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
+<img align="right" alt="coding-gif" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
 <h3 align="left">👨‍💻 My Accounts</h3>
 <p align="left">
