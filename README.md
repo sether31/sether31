@@ -22,8 +22,6 @@
   <img width="12" />
 </div>
 
-<p align="left">Hello World!!</p>
-
 <br>
 
 <div align="left">
