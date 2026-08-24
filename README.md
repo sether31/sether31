@@ -1,8 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sether31&label=Profile%20views&color=0e75b6&style=flat" alt="sether31" /> </p>
 
 <h1 align="center"> Seth Michael Hernandez</h1>
-
-<p align="center">Aspiring Front-end developer</p>
+<p align="center">Aspiring Front-End Developer</p>
 
 <h1 align="left">💻 Tech Skills</h1>
 
